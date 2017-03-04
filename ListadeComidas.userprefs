@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{967FAA04-C0E6-433C-ACEA-F175F42266F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListadeComidas.Droid PreferredExecutionTarget="Android.Android" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="14" column="4" />
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="15" column="4" />
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="16" column="6" />
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="17" column="4" />
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="18" column="4" />
+      <Breakpoint file="/Users/nayden/Projects/ListadeComidas/ListadeComidas/ListadeComidasPage.xaml.cs" relfile="ListadeComidas/ListadeComidasPage.xaml.cs" line="11" column="3" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListadeComidas.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E412F5C5-9AB3-4760-893C-DFE38996B00E" />
+  <MultiItemStartupConfigurations />
+</Properties>

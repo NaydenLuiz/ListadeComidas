@@ -1,0 +1,16 @@
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.App.xaml
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.ListadeComidasPage.xaml
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.App.xaml.g.cs
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.ListadeComidasPage.xaml.g.cs
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/ListadeComidas.dll.mdb
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/ListadeComidas.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/obj/Debug/ListadeComidas.dll.mdb
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/Xamarin.Forms.Core.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/System.Net.Http.Extensions.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/System.Net.Http.Primitives.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/Newtonsoft.Json.dll
+/Users/nayden/Projects/ListadeComidas/ListadeComidas/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
